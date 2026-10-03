@@ -102,22 +102,6 @@ A Java-based stock market simulator where users can buy and sell stocks using vi
 
 ---
 
-# 📸 Project Screenshots
-
-## Student Grade Tracker
-
-![Student Grade Tracker](StudentGradeTracker/screenshots/student-grade-tracker.png)
-
-## Hotel Reservation System
-
-![Hotel Reservation System](HotelReservationSystem/screenshots/hotel-reservation-system.png)
-
-## Stock Trading Platform
-
-![Stock Trading Platform](StockTradingPlatform/screenshots/stock-trading-platform.png)
-
----
-
 # 🚀 How to Run
 
 1. Clone the repository
