@@ -67,17 +67,8 @@ StudentGradeTracker
 ---
 
 ## 📸 Screenshots
-<img width="1226" height="800" alt="Screenshot 2026-10-03 053914" src="https://github.com/user-attachments/assets/79d23743-a056-42b4-be94-1478514eca8d" />
-
-
-### Main Dashboard
-(Add Screenshot Here)
-
 ### Student Records
-(Add Screenshot Here)
-
-### Generated Report
-(Add Screenshot Here)
+<img width="1226" height="800" alt="Screenshot 2026-10-03 053914" src="https://github.com/user-attachments/assets/79d23743-a056-42b4-be94-1478514eca8d" />
 
 ---
 
