@@ -70,11 +70,13 @@ CodeAlpha_StockTradingPlatform
 ## 📸 Screenshots
 Market & Portfolio
 
-(Add screenshot here)
+<img width="1200" height="838" alt="Screenshot 2026-10-03 085546" src="https://github.com/user-attachments/assets/23a8c00b-a5aa-4eb7-98d9-628da2a1f8c0" />
+
 
 Performance Chart
 
-(Add screenshot here)
+<img width="1203" height="835" alt="Screenshot 2026-10-03 090646" src="https://github.com/user-attachments/assets/f5e631be-45d9-43a4-a104-9e52ff2a21c8" />
+
 
 ## 👨‍💻 Author
 Sushant Patil
