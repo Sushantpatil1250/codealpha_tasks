@@ -1,0 +1,5 @@
+Average Marks : 85.00
+Highest Marks : 95
+Lowest Marks : 69
+Top Performer : jhon
+Total Students : 4
