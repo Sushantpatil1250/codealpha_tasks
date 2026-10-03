@@ -67,14 +67,9 @@ HotelReservationSystem
 
 ## 📸 Screenshots
 
-### Main Dashboard
-(Add Screenshot Here)
 
 ### Room Booking
-(Add Screenshot Here)
-
-### Hotel Summary
-(Add Screenshot Here)
+<img width="1483" height="863" alt="Screenshot 2026-10-03 074424" src="https://github.com/user-attachments/assets/832ce8b1-6624-4760-aa9f-8245ccc33d08" />
 
 ---
 
