@@ -1,116 +1,84 @@
-# CodeAlpha Internship Tasks
+# 📈 Stock Trading Platform
 
-This repository contains all the tasks completed by me during my CodeAlpha Internship Program.
+## 📖 Description
+Stock Trading Platform is a Java Swing based desktop application that simulates a basic stock market environment. Users can view market data, buy and sell stocks, track their portfolio and monitor performance over time through a simple graphical interface. All market data is simulated and portfolio data is saved to a file.
 
-## 👨‍💻 Intern Details
+## ✨ Features
+- ✅ Market Data Display
+- ✅ Buy Stocks
+- ✅ Sell Stocks
+- ✅ Portfolio Tracking (Average Cost, Value, Profit/Loss)
+- ✅ Portfolio Performance Over Time (Line Chart)
+- ✅ Transaction History
+- ✅ Market Simulation (Next Day Price Changes)
+- ✅ Input Validation (Insufficient Funds, Invalid Quantity, Shares Not Owned)
+- ✅ Save and Load Portfolio Data (File I/O)
+- ✅ User-Friendly GUI
+- ✅ Console Version Included
 
-- Name: Sushant Patil
-- Domain: Java Development
-- Organization: CodeAlpha
+## 🖥 Application Tabs
+| Tab | Description |
+|---|---|
+| Market & Portfolio | Live stock prices with daily change % and your current holdings |
+| Transactions | Complete history of all buy and sell operations |
+| Performance | Day-wise portfolio value shown as a line chart |
 
----
-
-## 📂 Projects Included
-
-### 1️⃣ Student Grade Tracker
-
-A Java Swing based application used to manage student records and grades.
-
-#### Features
-- Add Student
-- Delete Student
-- Generate Report
-- Calculate Average Marks
-- Find Highest Marks
-- Find Lowest Marks
-- Top Performer Identification
-- Save Report to File
-- User-Friendly GUI
-
-#### Technologies Used
-- Java
-- Swing
-- ArrayList
-- OOP
-- File Handling
-
----
-
-### 2️⃣ Hotel Reservation System
-
-A hotel booking and reservation management system developed using Java.
-
-#### Features
-- Room Booking
-- Customer Management
-- Reservation Details
-- Check-In / Check-Out
-- Room Availability Tracking
-
-#### Technologies Used
-- Java
-- OOP
-- Collections
-- File Handling
-
----
-
-### 3️⃣ AI Chatbot
-
-A simple AI-powered chatbot capable of interacting with users and responding to basic queries.
-
-#### Features
-- User Interaction
-- Automated Responses
-- Simple Conversation Flow
-- Java-Based Implementation
-
-#### Technologies Used
-- Java
-- OOP
-- String Handling
-- Collections Framework
-
----
-
-## 🛠️ Technologies Used
-
+## 🛠 Technologies Used
 - Java
 - Java Swing
 - Object-Oriented Programming (OOP)
-- Collections Framework
-- File Handling
+- Collections (Map, List)
+- Exception Handling
+- File Handling (Serialization)
+- IntelliJ IDEA
 
----
+## 🧱 OOP Design
+| Class | Responsibility |
+|---|---|
+| `Stock` | Stores symbol, company name, current and previous price |
+| `Market` | Manages all stocks and simulates daily price changes |
+| `User` | Manages cash, holdings, transactions and performance history |
+| `Transaction` | Record of a single BUY or SELL |
+| `DataStore` | Saves and loads data using file serialization |
+| `StockTradingGUI` | Swing graphical interface |
+| `Main` | Console based interface |
 
-## 🚀 How to Run
-
-1. Clone this repository
-
-```bash
-git clone https://github.com/your-username/codealpha_tasks.git
+## 📂 Project Structure
+```
+CodeAlpha_StockTradingPlatform
+│
+├── Stock.java
+├── Market.java
+├── Transaction.java
+├── User.java
+├── DataStore.java
+├── StockTradingGUI.java
+├── Main.java
+└── README.md
 ```
 
-2. Open the project in IntelliJ IDEA
+## 🚀 How to Run
+1. Open the project in IntelliJ IDEA.
+2. Compile all Java files.
+3. Run `StockTradingGUI.java`.
+4. Select a stock, enter quantity and click **Buy** or **Sell**.
+5. Click **Next Day >>** to simulate market movement.
+6. Close the window to save your portfolio automatically.
 
-3. Compile and run the required project
-
----
+> To start fresh, delete the `portfolio.dat` file.
 
 ## 📸 Screenshots
+Market & Portfolio
 
-Project screenshots are available inside their respective folders.
+(Add screenshot here)
 
----
+Performance Chart
 
-## 📜 Internship Program
+(Add screenshot here)
 
-These projects were developed as part of the CodeAlpha Internship Program to enhance practical knowledge of Java development and software design.
+## 👨‍💻 Author
+Sushant Patil
 
----
+CodeAlpha Java Programming Internship
 
-## 👤 Author
-
-**Sushant Patil**
-
-CodeAlpha Intern
+⭐ Developed as part of the CodeAlpha Internship Program.
